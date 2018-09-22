@@ -6,6 +6,8 @@
 
 请转至本项目的 [Wiki](https://github.com/bclswl0827/Fire-Browser/wiki) 页做更进一步的了解。
 
+如果您觉得不错的话，那么请给个 Star。
+
 ---
 
 ## 更新历史
