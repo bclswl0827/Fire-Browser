@@ -1,3 +1,7 @@
+# 已失效 · 不再维护
+
+---
+
 # Fire Browser
 
 下载，使用方法，请转至本项目的 [Wiki](https://github.com/bclswl0827/Fire-Browser/wiki) 页做更进一步的了解。
